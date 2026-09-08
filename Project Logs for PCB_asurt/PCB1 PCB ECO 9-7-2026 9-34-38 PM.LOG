@@ -1,0 +1,72 @@
+Change Footprint: Footprint Not Found CAPRR1000W60L1260T920H1390
+Change Footprint: Footprint Not Found CAPRR1000W60L1260T920H1390
+Change Component Comment : Designator=C2 Old Comment=2u New Comment=2u2
+Change component parameters: Designator = "C1" ("C1"); Footprint = "WCAP-PSHP_10X10.5(DXL)"; UniqueID = "\PRRTEKMV" ("\PRRTEKMV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECWFD2W105Q1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "WCAP-PSHP_10X10.5(DXL)"; UniqueID = "\CQLRLJQI" ("\CQLRLJQI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "ECWFD2W105Q1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin X?-1
+Add Pin To Net: Unknown Pin: Pin X?-2

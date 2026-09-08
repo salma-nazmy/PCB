@@ -1,0 +1,64 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPRR2750W100L3150T1200H2450 New Footprint=CAPC2012X145N
+Change Footprint: Footprint Not Found CAPRR1000W60L1260T920H1390
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPRR2750W100L3150T1200H2450"; UniqueID = "\MICBVMFY" ("\MICBVMFY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/GRM21BC81E106KE11L/Murata/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "GRM21BC81E106KE11L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "2012 Murata"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/GRM21BC81E106KE11L/Murata/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add component: Footprint Not Found CAPRR1000W60L1260T920H1390
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-1
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C16-1
+Add Pin To Net: Unknown Pin: Pin C16-2
+Add Pin To Net: Unknown Pin: Pin C17-1
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C18-1
+Add Pin To Net: Unknown Pin: Pin C18-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D?-1
+Add Pin To Net: Unknown Pin: Pin D?-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin X?-1
+Add Pin To Net: Unknown Pin: Pin X?-2

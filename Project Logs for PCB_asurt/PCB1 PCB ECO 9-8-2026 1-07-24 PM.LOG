@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+3V3 Pin=J3-2
+Removed Pin From Net: NetName=+3V3 Pin=J3-3
+Removed Pin From Net: NetName=MCU_RST Pin=J3-4
+Removed Pin From Net: NetName=MCU_SWCLK Pin=J3-6
+Removed Pin From Net: NetName=MCU_SWCLK Pin=U3-39
+Added Component: Designator=J(TC2030-IDC-NL)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Tag-Connect LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TC2030-CTX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TC2030-CTX/Tag-Connect%20LLC/view-part/225831/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=J-1
+Added Pin To Net: NetName=MCU_RST Pin=J-3
+Added Pin To Net: NetName=MCU_SWCLK Pin=J-4
+Added Pin To Net: NetName=+3V3 Pin=J-5
+Added Pin To Net: NetName=MCU_SWDIO Pin=J-6
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Pin To Net: NetName=MCU_SWO Pin=J-2
+Added Pin To Net: NetName=MCU_SWO Pin=U3-39
+Added Net: Name=MCU_SWO
