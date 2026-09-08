@@ -6,8 +6,7 @@ This repository contains the design source files, schematic diagrams, PCB layout
 
 ## 📌 Project Overview
 
-* **Microcontroller Unit (MCU):** STMicroelectronics STM32F411 (48-Pin UFQFPN Package)
-* **EDA Suite:** Altium Designer (Version 26+)
+
 * **Project File:** `pcb_asurt.PrjPcb`
 * **Schematic File:** `pcb_asurt.SchDoc`
 * **PCB File:** `PCB1.PcbDoc`
